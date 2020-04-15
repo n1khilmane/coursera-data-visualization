@@ -1,1 +1,1 @@
-# [Programming Assignment 1](http://jeanpan.github.io/coursera-data-visualization/programming-assignment-1/)
+This is Programming Assignment 1 for Data Visualiztion course on Coursera.
